@@ -1,0 +1,54 @@
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+img,
+.card {
+    animation: fadeIn ease-in 1s;
+    animation-fill-mode: forwards;
+}
+
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.album {
+    margin-top: 20px;
+    /* Add this line to create space between the banner and the cards */
+}
+
+.banner {
+    background-color: #000;
+    /* Black background */
+    color: #fff;
+    /* White text */
+    text-align: center;
+    padding: 20px 0;
+}
+
+.banner {
+    background: url('images/Home/Banner2.webp') no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    padding: 50px 0;
+    color: #ffffff;
+    background-position: 50% 76% !important;
+    /* You can adjust the percentage to move the image around */
+}
+
+/* Made by: Meghasyam Peddireddy */

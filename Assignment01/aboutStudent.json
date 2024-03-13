@@ -1,0 +1,18 @@
+{
+    "AboutStudent": [
+        {
+            "id": "pranava7",
+            "name": "Pranava Sai Maganti",
+            "entryYear": "Fall 2022",
+            "url": "images/About/Pranav/Pranav.JPG",
+            "about": "Hello, I am Pranav, a sophomore majoring in Computer Science. My coursework has equipped me with a solid foundation in key areas such as Data Structures, Object-Oriented Programming, Python Programming, and Discrete Computational Structures. Currently, I am further enhancing my skills and knowledge through engaging courses like Construction of User Interfaces, Software Development Practices, and Computer Architecture."
+        },
+        {
+            "id": "syam",
+            "name": "Meghasyam Peddireddy",
+            "entryYear": "Fall 2022",
+            "url": "images/About/Meghasyam/Syam.jpg",
+            "about": "Greetings, I'm Meghasyam, a second-year student pursuing a degree in Computer Science. My academic journey has provided me with a strong grasp of fundamental concepts in Data Structures, Object-Oriented Programming, Python Programming, and Discrete Computational Structures. I am currently expanding my expertise by delving into courses such as Construction of User Interfaces, Software Development Practices, and Computer Architecture."
+        }
+    ]
+}
